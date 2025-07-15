@@ -25,7 +25,7 @@ The main goal of this project is to help HR teams make data-driven decisions and
 
 ## 📷 Screenshot
 
-![HR Dashboard Screenshot]([your-image-path.png](https://github.com/Mohammed-Hany2001/HR-Dataset/blob/main/4.PNG))  
+![HR Dashboard Screenshot]([your-image-path.png](https://github.com/Mohammed-Hany2001/HR-Dataset/blob/main/4.PNG) 
 > *Replace `your-image-path.png` with your actual image file name or hosted link*
 
 ## 👨‍💻 Author
